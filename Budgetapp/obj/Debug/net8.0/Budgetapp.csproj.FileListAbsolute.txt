@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Budgetapp\bin\Debug\net8.0\Budgetapp.exe
+D:\Programmering\Programmering\Budgetapp\bin\Debug\net8.0\Budgetapp.deps.json
+D:\Programmering\Programmering\Budgetapp\bin\Debug\net8.0\Budgetapp.runtimeconfig.json
+D:\Programmering\Programmering\Budgetapp\bin\Debug\net8.0\Budgetapp.dll
+D:\Programmering\Programmering\Budgetapp\bin\Debug\net8.0\Budgetapp.pdb
+D:\Programmering\Programmering\Budgetapp\obj\Debug\net8.0\Budgetapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Budgetapp\obj\Debug\net8.0\Budgetapp.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Budgetapp\obj\Debug\net8.0\Budgetapp.AssemblyInfo.cs
+D:\Programmering\Programmering\Budgetapp\obj\Debug\net8.0\Budgetapp.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Budgetapp\obj\Debug\net8.0\Budgetapp.dll
+D:\Programmering\Programmering\Budgetapp\obj\Debug\net8.0\refint\Budgetapp.dll
+D:\Programmering\Programmering\Budgetapp\obj\Debug\net8.0\Budgetapp.pdb
+D:\Programmering\Programmering\Budgetapp\obj\Debug\net8.0\Budgetapp.genruntimeconfig.cache
+D:\Programmering\Programmering\Budgetapp\obj\Debug\net8.0\ref\Budgetapp.dll
